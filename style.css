@@ -56,11 +56,10 @@
     color: var(--white);
     transition: 0.5;
 }
-/*
 html{
     scroll-behavior: smooth;
     scroll-padding-top: 80px;
-}*/
+}
 body::-webkit-scrollbar{
     width: 7px;
 }
